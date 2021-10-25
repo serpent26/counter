@@ -4,6 +4,7 @@ const button = document.querySelectorAll(".btn");
 const Total = document.getElementById("Total");
 const TipAm = document.getElementById("TotalSec");
 const reset = document.getElementById("RESET");
+const create = document.createElement("button");
 for (let i = 0; i < button.length; i++) {
   button[i].addEventListener("click", BillCalculate);
 }
