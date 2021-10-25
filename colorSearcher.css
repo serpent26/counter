@@ -1,0 +1,19 @@
+#searcher{
+  color: black;
+  font-family: system-ui;
+  font-size: large;
+  
+}
+#color-searcher{
+ margin-top: .5rem;
+ border: purple solid 2px;
+ 
+}
+
+
+
+#color{ 
+   width: 10rem;
+   height: 10rem;
+   margin-top: 2rem;
+}
